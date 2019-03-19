@@ -1,0 +1,66 @@
+/*!
+ * Start Bootstrap - 1 Col Portfolio (https://startbootstrap.com/template-overviews/1-col-portfolio)
+ * Copyright 2013-2018 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio/blob/master/LICENSE)
+ */
+
+body {
+    background-color: lightrey;
+    background-image:-webkit-gradient(linear,left top, left bottom,from(#29323c),to(#485563));
+    background-image:-webkit-linear-gradient(#29323c,#485563);
+    background-image:-o-linear-gradient(#29323c,#485563);
+    background-image:linear-gradient(#29323c,#485563);
+}
+
+.pagination {
+    margin-bottom: 15px;
+}
+
+nav {
+    height: 70px;
+    background-color:black;
+    background-image:-webkit-gradient(linear,left top, left bottom,from(#1e3c72),to(#2a5298));
+    background-image:-webkit-linear-gradient(#1e3c72,#2a5298);
+    background-image:-o-linear-gradient(#1e3c72,#2a5298);
+}
+
+#boutonAjouter:hover {
+    background-color:red;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+html, body {
+    margin:0px;
+    padding:0px;
+    min-height: 100%;
+    color:white;
+}
+
+input[type="text"], input[type="date"], textarea {
+    background-color : rgb(44, 48, 52);
+    border: none;
+    width: 100%;
+    color: #ffffff;
+}
+
+::-webkit-input-placeholder {
+    color:#ffffff;
+    opacity: 0.5;
+}
+
+::-moz-placeholder {
+    color:#ffffff;
+    opacity: 0.5;
+}
+
+:-ms-input-placeholder {
+    color:#ffffff;
+    opacity: 0.5;
+}
+
+::placeholder {
+    color: #ffffff;
+    opacity: 0.5;
+}
