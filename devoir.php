@@ -43,7 +43,7 @@
                       <th scope="col">
                       <input type="text" id="nomDevoir" placeholder="Nom du devoir"></th>
                       <th scope="col">
-                      <input type="date" id="dateRecu" placeholder="Date recu">
+                      <input type="date" id="dateRecu" placeholder="Date reçu">
                       </th>
                       <th scope="col">
                       <input type="date" id="dateRemettre" placeholder="Date à remettre"></th>
